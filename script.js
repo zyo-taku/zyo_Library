@@ -460,7 +460,7 @@ memo: "身長：174cm\n誕生日：8/6\n好きなもの：カロリーメイト\
 image: "images/rokuun.png",
   },
 {
-    no: "051", name: "古志長 鷲井/ｺｼﾅｶﾞ ｼｭｳｾｲ", age: 34, job: "消防士(B'ASH)", status: "active", statusLabel: "現役",
+    no: "052", name: "古志長 鷲井/ｺｼﾅｶﾞ ｼｭｳｾｲ", age: 34, job: "消防士(B'ASH)", status: "active", statusLabel: "現役",
     quote: "B'ASH ", mark: "龍", bg: "#932022",
     profile: "真面目で堅物なリーダー。仕事においては真剣なためちゃんとしているが、私生活はだらしない。お酒が好き。",
     scenarios: [ "B'ASH(HO1)","食パンの大神とアルワッサンの襲来","ひろくてせまい宇宙","AND/HAND　など"],
@@ -469,7 +469,7 @@ memo: "身長：193cm\n誕生日：8/3\n好きなもの：日本酒、唐辛子\
 image: "images/kosinaga.png",
   },
 {
-    no: "052", name: "鳥原 常月/ﾄｯﾊﾟﾗ ﾄﾂｷ", age: 16, job: "高校生/イヤサカ隊員", status: "active", statusLabel: "現役",
+    no: "053", name: "鳥原 常月/ﾄｯﾊﾟﾗ ﾄﾂｷ", age: 16, job: "高校生/イヤサカ隊員", status: "active", statusLabel: "現役",
     quote: "新約・コトリバコ ", mark: "龍", bg: "#116414",
     profile: "武芸の天才でバトルジャンキー。伊賀流忍術を使う鳥原家の2番子。表向きは少し大きな家だが、裏では忍術を途絶えさせないようにと仕込まれている。",
     scenarios: [ "新約・コトリバコ"],
@@ -478,7 +478,7 @@ memo: "身長：155cm\n誕生日：10/12\n好きなもの：まぜそば\n芸術
 image: "images/totuki.png",
   },
 {
-    no: "053", name: "Baraka/ﾊﾞﾗｶ", age: 19, job: "騎士", status: "active", statusLabel: "現役",
+    no: "054", name: "Baraka/ﾊﾞﾗｶ", age: 19, job: "騎士", status: "active", statusLabel: "現役",
     quote: "アルフ・ライラ・ワ・ライラは語らない ", mark: "龍", bg: "#783864",
     profile: "大変人相の悪い騎士。賊と勘違いされたことがあるほど見た目の印象は良くない。見た目とは逆に性格は気前のいい兄ちゃん。",
     scenarios: [ "アルフ・ライラ・ワ・ライラは語らない","welcome to another world!!","Break And Note Glitch!"],
