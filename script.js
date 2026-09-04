@@ -451,7 +451,7 @@ memo: "身長：169cm\n誕生日：6/3\n好きなもの：きのこ類\n芸術�
 image: "images/rokuzo.png",
   },
 {
-    no: "050", name: "六運 慶仁/ﾛｸｳﾝ ｹｲｼﾞ", age: 27, job: "宮大工", status: "lost", statusLabel: "ロスト",
+    no: "051", name: "六運 慶仁/ﾛｸｳﾝ ｹｲｼﾞ", age: 27, job: "宮大工", status: "lost", statusLabel: "ロスト",
     quote: "裏裏裏裏", mark: "龍", bg: "#795548",
     profile: "ダルがってる宮大工。おそらく歴戦の探索者。錫杖は戦闘にいいから持ってる。",
     scenarios: [ "裏裏裏裏(クギアルバイト)"],
