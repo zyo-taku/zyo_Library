@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>探索者図鑑</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="hero">
+    <p class="eyebrow">MY INVESTIGATORS</p>
+    <h1>探索者図鑑</h1>
+    <p class="subtitle">TRPGで出会った、じょうの探索者たち。</p>
+  </header>
+
+  <main>
+    <div class="toolbar">
+      <div class="filters" aria-label="探索者の絞り込み">
+        <button class="filter active" data-filter="all">すべて <span id="count-all"></span></button>
+        <button class="filter" data-filter="active">現役 <span id="count-active"></span></button>
+        <button class="filter" data-filter="lost">ロスト <span id="count-lost"></span></button>
+        <button class="filter" data-filter="kpc">KPC <span id="count-kpc"></span></button>
+      </div>
+      <input id="search" type="search" placeholder="名前・職業で探す">
+    </div>
+
+    <p id="result-count" class="result-count"></p>
+    <section id="gallery" class="gallery" aria-live="polite"></section>
+  </main>
+
+  <dialog id="detailDialog">
+    <article id="detail"></article>
+    <button id="closeDialog" class="close" aria-label="閉じる">×</button>
+  </dialog>
+
+  <footer>
+    <p>MY INVESTIGATORS ARCHIVE</p>
+    <p class="small">このサイトは探索者紹介用の試作品です。</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
