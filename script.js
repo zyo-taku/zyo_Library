@@ -15,7 +15,7 @@ image: "images/sakutaro.png",
     profile: "そう！世界に必要なのは米と米と米！！！！！米のために今日も国と生産者を守る警察官！米を信じて戦ってるから法律なんていらないのさ！",
     scenarios: [ "呼声戦線異状あり！～人民、灼熱の時代に斯く戦えり～(HO1)"],
     stats: { STR: 16, CON: 12, POW: 6, DEX: 9, APP: 11, SIZ: 9 },
-memo: "身長：146cm\n誕生日：7/7\n好きなもの：お米\n芸術技能：なし\nモチーフ：南魚沼産コシヒカリ",
+memo: "身長：146cm\n誕生日：7/7\n好きなもの：お米\n芸術技能：炊飯\nモチーフ：南魚沼産コシヒカリ",
 image: "images/hikari.png",
   },
   {
@@ -276,7 +276,7 @@ image: "images/nekomata.png",
     profile: "一人の女性をめぐり、親友と争ったことがある。その時に相手を突き放す発言をし、その結果親友は自殺をした。親友を殺したことを後悔すると同時に親友の気持ちがどのようなものだったのか興味が湧いてしまった。",
     scenarios: [ "異説・狂人日記"],
     stats: { STR: 7, CON: 16, POW: 15, DEX: 13, APP: 11, SIZ: 11 },
-memo: "身長：183cm\n誕生日：4/20\n好きなもの：鯖\n芸術技能：手紙\nモチーフ：こころ/先生(夏目漱石)",
+memo: "身長：169cm\n誕生日：4/20\n好きなもの：鯖\n芸術技能：手紙\nモチーフ：こころ/先生(夏目漱石)",
 image: "images/issin.png",
   },
 {
@@ -485,6 +485,15 @@ image: "images/totuki.png",
     stats: { STR: 15, CON: 14, POW: 10, DEX: 18, APP: 7, SIZ: 15 },
 memo: "身長：182cm\n誕生日：9/6\n好きなもの：カブサ\n芸術技能：\子守歌\nモチーフ：吉祥草＋カラス＋蛇",
 image: "images/baraka.png",
+  },
+ {
+    no: "055", name: "Panatag・Walo・Archipiélago/ﾊﾟﾅﾀｸﾞ・W・ｱﾙﾁﾋﾟｴﾗｺﾞ", age: 28, job: "バックパッカー", status: "active", statusLabel: "現役",
+    quote: "VIVA", mark: "朔", bg: "#9d61a8",
+    profile: "いろんな場所へ旅するフィリピン人。よく何もない空間に向かって「あに様！」と話しかけている。彼にしか見えないあに様がいるようだ。",
+    scenarios: [ "VIVA(HO5)"],
+    stats: { STR: "？", CON: "？", POW: "？", DEX: "？", APP: 14, SIZ: 18 },
+memo: "身長：198cm\n誕生日：8/24\n好きなもの：タホ、フルーツ\n芸術技能：DIY\nモチーフ：丈島甲太郎、八丈島",
+image: "images/panatag.png",
   }
 ];
 
