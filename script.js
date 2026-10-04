@@ -494,6 +494,33 @@ image: "images/baraka.png",
     stats: { STR: "？", CON: "？", POW: "？", DEX: "？", APP: 14, SIZ: 18 },
 memo: "身長：198cm\n誕生日：8/24\n好きなもの：タホ、フルーツ\n芸術技能：DIY\nモチーフ：丈島甲太郎、八丈島",
 image: "images/panatag.png",
+ },
+ {
+    no: "056", name: "告鳥 氷麗/ｺﾁｮｳ ﾂﾗﾗ", age: 22, job: "落語家", status: "active", statusLabel: "現役",
+    quote: "ロトカ・ヴォルテラの愛堕討ち", mark: "朔", bg: "#7fd7d0",
+    profile: "雪のように白く、美人な落語家。肌の白さ故に体調が悪いのかと心配されがち。実際に何度か急な体調不良で休演したこともある。「美人薄命」と言われることもしばしば。",
+    scenarios: [ "ロトカ・ヴォルテラの愛堕討ち(HO2)"],
+    stats: { STR: 25, CON: 35, POW: 70, DEX: 40, APP: 80, SIZ: 50 },
+memo: "身長：153cm\n誕生日：1/29\n好きなもの：グミ\n芸術技能：落語、知らんぷり\nモチーフ：白鳥、つらら女(妖怪)",
+image: "images/turara.png",
+  },
+{
+    no: "057", name: "互尊/ｺﾞｿﾝ", age: "23", job: "占い師", status: "active", statusLabel: "通過中",
+    quote: "Nobody*2", mark: "龍", bg: "#212121",
+    profile: "ミステリアスな男性。占い師のはずだが占い結果の伝え方はかなり適当。見かけによらず身軽だったりもする。",
+    scenarios: [ "Nobody*2(HO3)"],
+    stats: { STR: "？", CON: "？", POW: "？", DEX: "？", APP: 10 ,SIZ: 12 },
+memo: "身長：170cm\n誕生日：12/5\n好きなもの：チョコレート\n芸術技能：占い\nモチーフ：互尊翁",
+image: "images/goson.png",
+  },
+{
+    no: "058", name: "鶤鶏 弥三子/ﾄｳﾏﾙ ﾔｻｺ", age: 20, job: "大学生", status: "active", statusLabel: "現役",
+    quote: "踊れ、ワルツ", mark: "朔", bg: "#304b56",
+    profile: "グレてあまり実家に帰ってこない長男と職人気質でコミュニケーション下手な次男を見て、自分がしっかりしなければならないと思い、自分を律している女性。所謂真面目ちゃん。",
+    scenarios: [ "踊れ、ワルツ"],
+    stats: { STR: 10, CON: 16, POW: 14, DEX: 11, APP: 8, SIZ: 10 },
+memo: "身長：157cm\n誕生日：10/3\n好きなもの：メロン\n芸術技能：演劇\nモチーフ：鶤鶏(鶏の品種)、弥三郎婆(妖怪)",
+image: "images/yasako.png",
   }
 ];
 
